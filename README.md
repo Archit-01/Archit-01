@@ -4,7 +4,7 @@ preview
 <h1 align="center">Hi 👋, I'm Archit Patil</h1>
 <h3 align="center">Computer Science Student At SIT(PUNE)</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Archit-01](https://github.com/Archit-01)
 
