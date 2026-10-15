@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archit Patil</h1>
-<h3 align="center">Software Developer | AI &amp; Agentic AI | Test Automation</h3>
+<h3 align="center">Software Developer | AI &amp; Agentic AI </h3>
 
 <p align="center">Computer Science graduate from Symbiosis Institute of Technology, Pune 🎓</p>
 
