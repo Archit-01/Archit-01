@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Archit%20Patil&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Agentic%20AI%20%7C%20Test%20Automation&descAlignY=60&descSize=16" alt="Archit Patil banner" />
-</p>
+<h1 align="center">Hi 👋, I'm Archit Patil</h1>
+<h3 align="center">Software Developer | AI &amp; Agentic AI | Test Automation</h3>
 
-<h3 align="center">Computer Science graduate from Symbiosis Institute of Technology, Pune 🎓</h3>
+<p align="center">Computer Science graduate from Symbiosis Institute of Technology, Pune 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/archit-patil2004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -108,14 +107,3 @@
 `Agentic AI` · `Generative AI for Everyone` · `AI For Everyone` · `AI Fluency Framework & Foundations` · `Data Science Essentials` · `Foundations: Data, Data, Everywhere` · `Introduction to Cyber Security` · `Big Data 101`
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Archit-01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
-</p>
